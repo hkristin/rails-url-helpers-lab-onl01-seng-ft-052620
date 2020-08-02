@@ -9,9 +9,10 @@ class StudentsController < ApplicationController
 
   end
 
-  def activate
+  def activate_student_path
 
   end
+
   private
 
     def set_student
