@@ -9,7 +9,7 @@ class StudentsController < ApplicationController
 
   end
 
-  def activate_student_path
+  def activate
 
   end
 
